@@ -1,0 +1,23 @@
+Use STFT  short time fft  Gives a  2d   with Frequency over time in the window 
+'
+Apply specialised vindows   smotooth windows insted of recntangel window 
+For example haming,Hanning window ore blackman Kaiser window where you can choose beta 
+Higer bete means less frequncy lekaes but does infect the frequncy resulution negativly 
+
+Multiple windows (tapers)
+
+Regtangel window- Singel window-Multiple Windows (taper )
+Multitaper Spectogram 
+
+frequncy or time specific not booth 
+
+Wawlets spectrum 
+
+
+TODO 
+Creat a wavlet transormation/plot of 30 seconds of PPG singal   and The IMU (one axis) create Wavlet tranfomr. The banstopp the frequncies from the IMu to the PPG sinnal at hat time that the frequncys is observed 
+
+cwt matlab 
+
+
+
